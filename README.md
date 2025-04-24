@@ -1,1 +1,0 @@
-# ocr_japanese_gpt
