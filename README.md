@@ -304,3 +304,40 @@ for cnt in contours:
 推論時：TTA → CNN予測 + OCR → EasyOCR⇔Tesseract → GPT補正 → フォールバック
 
 出力：id,label の提出用CSV
+
+
+# 参考文献
+
+https://github.com/xinntao/Real-ESRGAN
+
+https://github.com/mjq11302010044/TPGSR
+
+https://github.com/ayumiymk/aster.pytorch
+
+https://github.com/meijieru/crnn.pytorch
+
+https://note.com/rosso_blog/n/nd5dc2eea3134#b361318e-fd9b-4f31-bedb-2c03a3cc22d0
+
+https://qiita.com/ryuus/items/b6b8a34bf0ea11c3b378
+
+https://pytorch.org/vision/main/models/generated/torchvision.models.resnet152.html
+
+https://github.com/tesseract-ocr/tesseract
+
+https://qiita.com/spc_ehara/items/e425b6dcc0398299c40d
+
+https://github.com/JaidedAI/EasyOCR
+
+https://qiita.com/cfiken/items/7cbf63357c7374f43372
+
+https://qiita.com/bowdbeg/items/71c62cf8ef891d164ecd
+
+https://qiita.com/kma-jp/items/81db6d5c549e50707e30
+
+https://qiita.com/wing_man/items/a1d5ab1bba7d763d9369
+
+https://qiita.com/kitfactory/items/d89457eeab5c185880be
+
+https://qiita.com/takoroy/items/e2f1ee627311be5d879d
+
+https://qiita.com/Takayoshi_Makabe/items/79c8a5ba692aa94043f7
