@@ -169,7 +169,7 @@ export TESSDATA_PREFIX=Tesseract_path
 
 注意：EasyOCR は初回ロードが重い。Tesseract は日本語パックを別途インストール要。
 
-**9. GPT-4o（cpt-4o）によるテキスト補正**
+**9. GPT-4o（gpt-4o）によるテキスト補正**
 
 役割：OCR結果を「カテゴリ名のうちどれか」に補正するために LLM を活用。
 
