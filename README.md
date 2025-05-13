@@ -89,11 +89,11 @@ export TESSDATA_PREFIX=Tesseract_path
 
 
 # 使用技術
-**1. ResNet152（ImageNet事前学習）**
+**1. ResNet18（ImageNet事前学習）**
 
 役割：画像分類モデルの骨格。深い残差構造で多数の層を安定的に学習可能。
 
-ポイント：ResNet152_Weights.IMAGENET1K_V2 を用いて ImageNet 上で事前学習された重みをロードし、最終出力層を本タスクのカテゴリ数に再定義。
+ポイント：ResNet18_Weights.IMAGENET1K_V2 を用いて ImageNet 上で事前学習された重みをロードし、最終出力層を本タスクのカテゴリ数に再定義。
 
 メリット：少ないデータでも“転移学習”で高い精度が得やすい。
 
